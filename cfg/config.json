@@ -4,8 +4,8 @@
 	},
 	"welcome_message": {
 		"enabled": true,
-		"channel": "general",
-		"part1": "Hello",
-		"part2": ", welcome to our discord server."
+		"channel": "welkom-leave",
+		"part1": "Hallo",
+		"part2": ", Welkom bij Rick's - Community"
 	}
 }
